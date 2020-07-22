@@ -60,3 +60,5 @@ gl.useProgram(program);
 // can be triangles, point, lines etc
 // then what the starting vertex and how many do you want to draw
 gl.drawArrays(gl.TRIANGLES, 0, 3);
+
+// All of this can be made much easier via pixi.js and three's
